@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/graphicalanalysis/static/css/main.0628cf5e.css",
+    "main.js": "/graphicalanalysis/static/js/main.f0d1e0ef.js",
+    "index.html": "/graphicalanalysis/index.html",
+    "main.0628cf5e.css.map": "/graphicalanalysis/static/css/main.0628cf5e.css.map",
+    "main.f0d1e0ef.js.map": "/graphicalanalysis/static/js/main.f0d1e0ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0628cf5e.css",
+    "static/js/main.f0d1e0ef.js"
+  ]
+}
